@@ -1,2 +1,2 @@
 # Quiz Game
- Programming logic/ Learning Portugol
+ Programming logic/ Learning Portugol/ Learning Git
